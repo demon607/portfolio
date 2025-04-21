@@ -1,0 +1,23 @@
+Required Images for the Portfolio:
+
+1. profile.jpg - Professional headshot for the hero section
+2. portfolio-1.jpg - Automotive marketing campaign dashboard screenshot
+3. portfolio-2.jpg - Fashion brand social media campaign creative
+4. portfolio-3.jpg - E-commerce website screenshot showing analytics
+5. portfolio-4.jpg - Search engine marketing results screenshot
+6. testimonial-1.jpg - Professional headshot of John Smith
+7. testimonial-2.jpg - Professional headshot of Sarah Johnson
+8. testimonial-3.jpg - Professional headshot of Michael Wong
+9. google-ads-cert.png - Google Ads certification badge
+10. analytics-cert.png - Google Analytics certification badge
+11. gtm-cert.png - Google Tag Manager certification badge
+
+For optimal performance:
+- Use .jpg for photographs
+- Use .png for graphics with transparency
+- Keep file sizes under 200KB
+- Dimensions:
+  - Profile: 600x600px
+  - Portfolio: 800x600px
+  - Testimonials: 200x200px
+  - Certificates: 300x200px 
